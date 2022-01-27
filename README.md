@@ -1,1 +1,4 @@
-# McClellan_Sean_NFLcrime
+# MUSA Capstone Project - Sean McClellan
+
+### The NFL's Role in Urban Crime
+
