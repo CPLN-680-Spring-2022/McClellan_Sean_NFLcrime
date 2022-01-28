@@ -7,3 +7,5 @@ NFL Football is a sport filled with passion and aggression. These qualities are 
 #### File Organization
 
 In [raw_data](https://github.com/seanm4/McClellan_Sean_NFLcrime/tree/main/raw_data), you will find all of the data used in this analysis. This icludes data from the 2019 NFL Season obtained from [Pro Football Reference](https://www.pro-football-reference.com), NFL stadium locations, geographic data, and crime data in cities with NFL teams. 
+
+In the [Code](https://github.com/seanm4/McClellan_Sean_NFLcrime/tree/main/Code) folder, you will find the R script this project is primarily built on. This folder will be kept up to date with other scripts or similar code formats.
